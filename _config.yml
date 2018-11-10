@@ -1,7 +1,7 @@
 # Site settings
 title: XU Blog
 SEOTitle: XU的博客 | XU Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-os-metro.jpg
 email: xj1919393927@gmail.com
 description: "Nothing really correct."
 keyword: "XU, XU Blog, XU的博客, xujian, 徐剑, JAVA, Python, Shell"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/lophix/lophix.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "One World! One Dream!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/tx.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
