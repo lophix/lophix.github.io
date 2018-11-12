@@ -5,7 +5,7 @@ header-img: img/post-bg-os-metro.jpg
 email: xj1919393927@gmail.com
 description: "Nothing really correct."
 keyword: "XU, XU Blog, XU的博客, xujian, 徐剑, JAVA, Python, Shell"
-url: "http://lophix.github.io"          # your host, for absolute URL
+url: "https://lophix.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/lophix/lophix.github.io.git" # you code repository
 
@@ -101,6 +101,6 @@ service-worker: true
 friends: [
     {
         title: "BLANK",
-        href: "http://lophix.github.io"
+        href: "https://lophix.github.io"
     }
 ]
